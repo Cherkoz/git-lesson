@@ -1,1 +1,1 @@
-document.body.innerHTML = '<h2>Скрипт на сайте есть</h2>'
+document.body.innerHTML = '<h2>Js подключен</h2>'
