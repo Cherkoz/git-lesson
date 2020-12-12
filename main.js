@@ -1,0 +1,1 @@
+document.body.innerHTML = '<h2>Скрипт на сайте есть</h2>'
